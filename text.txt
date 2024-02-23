@@ -1,4 +1,4 @@
-echo "TEXT, to SHELL tranforamation
+echo "TEXT, to SHELL tranforamation!
 Bla, blah, blah
 Bla, blah, blah
 Bla, blah, blue"
