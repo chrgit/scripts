@@ -1,1 +1,3 @@
 Check the text if it is right or wrong and make the appropriate corrections.
+when you are done...
+Then check the txt file and make the appropriate corrections.
