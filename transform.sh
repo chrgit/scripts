@@ -4,13 +4,13 @@ touch text.sh
 cp text.txt text.sh
 chmod +x text.sh
 ./text.sh
-# rm text.sh
+rm text.sh
 echo -n
 echo "...and then!"
 echo
-echo "Taxonomy from 1 to 10"
+echo "Taxonomy from 25 to 30"
 touch tax.sh
-for i in {1..10}; do
+for i in {25..30}; do
     if (( i % 2 == 0 )); then
         echo "$i is an even number"
     else
