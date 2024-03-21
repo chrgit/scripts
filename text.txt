@@ -1,5 +1,5 @@
 echo "TEXT, to SHELL tranforamation!"
-echo It's a variation of "TEXT"
+echo "It's a variation of TEXT"
 echo "Bla, blah, blah
 Bla, blah, blah
 Bla, blah, blue"
