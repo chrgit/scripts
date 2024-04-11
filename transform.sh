@@ -19,5 +19,4 @@ for i in {25..30}; do
 done
 chmod +x tax.sh
 ./tax.sh
-rm tax.sh 
-echo
+rm tax.sh
