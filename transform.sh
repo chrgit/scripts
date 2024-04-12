@@ -21,7 +21,7 @@ for i in {1..10}; do
 done
 chmod +x tax1.sh
 ./tax1.sh
-# rm tax.sh 
+rm tax1.sh 
 echo
 echo "Taxonomy from 20 to 30"
 echo
@@ -35,4 +35,4 @@ for i in {20..30}; do
 done
 chmod +x tax2.sh
 ./tax2.sh
-# rm tax.sh
+rm tax2.sh
