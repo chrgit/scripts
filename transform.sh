@@ -27,22 +27,12 @@ echo "Taxonomy from 20 to 30"
 echo
 touch tax2.sh
 for i in {20..30}; do
-  if (( i % 2 == 0 )); then
-	  echo "$i is an even number"
-  else
-	  echo "$i is an odd number"
-  fi
+	if (( i % 2 == 0 )); then
+		echo "$i is an even number"
+	else
+		echo "$i is an odd number"
+	fi
 done
 chmod +x tax2.sh
 ./tax2.sh
 rm tax2.sh
-for i in {40..50}; do
-  if (( i % 2 == 0 )); then
-	  echo "$i is an even number"
-  else
-	  echo "$i is an odd number"
-  fi
-done
-chmod +x tax3.sh
-./tax3.sh
-rm tax3.sh
